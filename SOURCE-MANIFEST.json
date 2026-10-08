@@ -1,0 +1,14 @@
+{
+  "BUILD-INSTRUCTIONS.md": "e77374c576d1a87c3960b014607b8b7a2a1782575417b553d8ec88852c121429",
+  "build-profile.json": "85751b55cdb636b2eb5a4babc69dbf3fbacbfffe47327f416b83da65e0b04ee0",
+  "build.ps1": "2ad1a521cf0595d3b03c55547be66f2c9c030903c77c425998490916bf570dcb",
+  "catalog.json": "bff755c1c80a5c2d8170e2b64adfd2357f9f4e1890ec15a63d85aeb0cc1a18af",
+  "field_guide.py": "2e66bf6759f9d0236475293ecd41a1bf93003079ea94a920e5b688a0de292755",
+  "HOW-TO.txt": "323ddf971f9e4bd39d9b02354c80900ffad8730941fb623a78645eb0318edc0b",
+  "OperativeOverride.spec": "4f957c97d053dbca6bb3b291eb0f255a93be26d4d57c4ed9b07ebf598d42d86a",
+  "process_lookup.py": "a2136f9bab6bb513baf7e45ae2fdb1bc90eb514e5e9f90cdea0a870a6c78b221",
+  "requirements-build.txt": "a2858b05f7c8fd351d17126991610fde3ca2589f9631a8dee44ec62575a9a324",
+  "studio.py": "9152f2bdcef1790f5e68091cbaceb5979b6f72c5cd5b4aede12759088f2284fd",
+  "studio_backend.py": "8b45f34520bc9f39ee8e88980b2dd427e42ca91e354862e36ea1a18dfd5c6e1d",
+  "wardrobe.py": "468185fd5ff4c3e1d86e31355587e07707ca149db91ec2f3fba5b36dd9238962"
+}
